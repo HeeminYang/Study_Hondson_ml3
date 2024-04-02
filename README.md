@@ -1,4 +1,4 @@
-# Study_Hondson_ml3
+# Study: Hondson machine learning 3.0
 
 About This
 2022년 겨울방학, DHLab에서 진행된 북리딩의 기록이다.
