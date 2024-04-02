@@ -9,8 +9,7 @@ I upload ipynb file about the session that I have taken in book-reading.
 
 Session Composition
 
-12. custom_models_and_training_with_tensorflow
-12.4 Tensorflow function
-14. loading_and_preprocessing_data
-13.1 The tf.data API
-13.2 The TFRecord Format
+12. custom_models_and_training_with_tensorflow: Tensorflow function
+13. loading_and_preprocessing_data: The tf.data API, The TFRecord Format
+
+17. 
