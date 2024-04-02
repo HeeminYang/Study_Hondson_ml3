@@ -8,8 +8,9 @@ The Record of Book-reading that Laboratory activity took place in winter vacatio
 I upload ipynb file about the session that I have taken in book-reading.
 
 Session Composition
+
 12. custom_models_and_training_with_tensorflow
 12.4 Tensorflow function
-13. loading_and_preprocessing_data
+14. loading_and_preprocessing_data
 13.1 The tf.data API
 13.2 The TFRecord Format
