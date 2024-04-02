@@ -11,5 +11,4 @@ Session Composition
 
 12. custom_models_and_training_with_tensorflow: Tensorflow function
 13. loading_and_preprocessing_data: The tf.data API, The TFRecord Format
-
-17. 
+17. Autoencoders and GANs
